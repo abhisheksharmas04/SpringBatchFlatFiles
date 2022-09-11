@@ -11,3 +11,6 @@ public class SpringBathcFlatFilesApplication {
 	}
 
 }
+
+//Step 1: Create Spring boot Application
+// Step 2: Create required packages
